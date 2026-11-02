@@ -1,0 +1,28 @@
+GENESIS 2.0 — VERSÃO REFORMULADA
+
+ESTRUTURA
+- index.html: página inicial
+- introducao.html: introdução à genética
+- dna.html: DNA, genes e cromossomos
+- mendel.html: Gregor Mendel e as ervilhas
+- leis.html: Leis de Mendel
+- conceitos.html: conceitos fundamentais
+- cruzamentos.html: cruzamentos genéticos
+- aplicacoes.html: aplicações da genética
+- quiz.html: questionário
+- referencias.html: fontes e créditos de consulta
+- creditos.html: identificação dos alunos e professor
+- assets/: imagens originais em SVG, estilo e funcionamento do questionário
+
+COMO PUBLICAR
+1. Extraia o arquivo ZIP.
+2. No repositório do GitHub, envie os arquivos HTML para a raiz.
+3. Envie a pasta assets inteira, mantendo seus arquivos dentro dela.
+4. Substitua os arquivos antigos quando o GitHub perguntar.
+5. Confirme que index.html está na raiz do repositório.
+6. Em Configurações > Pages, mantenha a publicação pela branch main e pela pasta raiz.
+7. Aguarde a atualização do GitHub Pages.
+
+IMPORTANTE
+Não envie apenas o ZIP. Envie os arquivos extraídos. A pasta assets deve ficar ao lado de index.html.
+O site usa uma imagem histórica de Gregor Mendel hospedada no Wikimedia Commons; os demais esquemas desta versão foram desenhados para o projeto e possuem legendas em português.
